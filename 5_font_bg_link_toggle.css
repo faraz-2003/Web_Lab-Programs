@@ -27,7 +27,7 @@ body {
     /* background-repeat: repeat-y; */
     /* background-repeat: none; */
     /* background-repeat: no-repeat, no-repeat, no-repeat; */
-    background-repeat: repeat;
+    background-repeat: repeat-y;
     background-position: 0px 0px, 500px 0px, 1000px, 0px;
 }
 
@@ -44,7 +44,7 @@ a:link {
 
 
 a:visited {
-    color: rgb(223, 37, 37);
+    color:black
 }
 
 
